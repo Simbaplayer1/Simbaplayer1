@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Simbaplayer1
-- 👀 I’m interested in Monster Energy
-- 🌱 I’m currently learning how to make a minecraft mod
-- 💞️ I’m looking to collaborate on Minecraft mods
+- 👋 Hi, I’m @Simbaplayer
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me simbaplayer1.github@gmail.com
 
 <!---
